@@ -9,4 +9,4 @@ This Repository contains a NLP program made with python which automatically cate
 
 ***Contributions Are welcomed here.***
 
-![BUILT WITH LOVE](http://forthebadge.com/images/badges/built-with-love.svg) by [@Udit](https://github.com/uditkumar489)
+![BUILT WITH LOVE](http://forthebadge.com/images/badges/built-with-love.svg) by [Udit](https://github.com/uditkumar489)
