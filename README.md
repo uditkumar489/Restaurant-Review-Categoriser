@@ -10,5 +10,3 @@ This Repository contains a NLP program made with python which automatically cate
 ***Contributions Are welcomed here.***
 
 ![BUILT WITH LOVE](http://forthebadge.com/images/badges/built-with-love.svg)
-
-[![forthebadge](http://forthebadge.com/images/badges/built-by-neckbeards.svg)](http://forthebadge.com)
